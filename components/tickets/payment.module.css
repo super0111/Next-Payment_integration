@@ -1,0 +1,25 @@
+.pymnt {
+    display: flex;
+    align-items: center;
+}
+
+.opt {
+    padding: 0.5em;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.lbl {
+    display: flex;
+    align-content: center;
+
+}
+
+.form {
+    display: flex;
+    gap: 20px;
+    padding: 1em;
+    margin-top: .5em;
+    border: 2px solid #0070f3;;
+}
